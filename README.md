@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![ForeverFancy's github stats](https://github-readme-stats.vercel.app/api?username=ForeverFancy)](https://github.com/anuraghazra/github-readme-stats)
+
 I am Bowen Zhang (张博文), an undergraduate student from School of the Gifted Young (少年班学院), University of Science and Technology of China (中国科学技术大学), major in Computer Science. You could check out my [CV here](http://home.ustc.edu.cn/~zhangbowen/CV/Bowen%20Zhang's%20CV.pdf).
 
 <!--
