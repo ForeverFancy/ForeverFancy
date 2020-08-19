@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there, I am Bowen Zhang 👋
 
 [![ForeverFancy's github stats](https://github-readme-stats.vercel.app/api?username=ForeverFancy)](https://github.com/anuraghazra/github-readme-stats)
 
